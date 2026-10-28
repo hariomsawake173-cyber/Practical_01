@@ -1,0 +1,9 @@
+Gene,Product,Locus_tag,Start,End
+nifA,Unknown,ELH04_36190,58888,59973
+nifA,nif-specific transcriptional activator NifA,ELH04_36190,58888,59973
+nifH,Unknown,ELH04_36215,64341,65234
+nifH,nitrogenase iron protein,ELH04_36215,64341,65234
+nifD,Unknown,ELH04_36220,65335,66855
+nifD,nitrogenase molybdenum-iron protein alpha chain,ELH04_36220,65335,66855
+nifK,Unknown,ELH04_36225,66933,68465
+nifK,nitrogenase molybdenum-iron protein subunit beta,ELH04_36225,66933,68465
