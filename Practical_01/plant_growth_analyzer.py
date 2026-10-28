@@ -1,3 +1,4 @@
+# My Bioinformatics Project: Plant Growth-Promoting Gene Analyzer
 from Bio import SeqIO
 import csv
 import matplotlib.pyplot as plt
